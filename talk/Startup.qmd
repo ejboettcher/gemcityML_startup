@@ -1,0 +1,127 @@
+---
+title: "Gem City ML"
+subtitle: "Welcome: Start Up"
+date: "Aug 17th, 2023"
+author: "Presented by Evelyn J. Boettcher"
+title-slide-attributes:
+    data-background-image: 'img/logos/gem_cityML_slide.png'
+    data-background-size: "100% 100% "
+    data-background-position: "0% "
+    data-background-opacity: "0.95"
+format:
+    revealjs:
+        incremental: false
+fig-cap-location: margin
+
+---
+
+## ML/AI Start up
+
+::::{.columns}
+:::{.column width="60%"}
+
+ML / AI start ups seem to be popping up.
+
+<br>
+
+### AND
+
+In Sept., the hub is hosting [Start Week](https://launchdayton.com/events/startup-week/). 
+
+
+:::
+
+:::{.column width="28%"}
+
+![](img/startup.png)
+
+:::
+
+::::
+
+Launch Dayton Startup Week Presented by Fifth Third Bank is the top gathering of the year for the Dayton region’s new and aspiring entrepreneurs. Sept. 12-15, 2023, hundreds of bold makers, innovators, dreamers and doers will converge at The Hub in downtown Dayton to be inspired and empowered at this community-driven conference. 
+
+
+<br>
+
+### So, my FOMO kicked in
+
+---
+
+## What does it take to start a business
+
+* People: Don't start a business by yourself.  Very hard (see Evelyn Boettcher)
+* Money
+* Ideal
+* Ability to fail
+* [Organization](data/worksheets.pdf)
+
+<br>
+  
+### Why ability to fail
+
+* If you are living pay check to pay check, you can't afford to fail.
+* If you need medical insurance, you can't afford to fail.
+* If you are getting ready to retire, you can't afford to fail.
+
+<br>
+
+Basically, are you young and healthy.
+
+---
+
+## Money
+
+You need at least 3 months of funding for yourself.
+If you plan to bring people in, 3 months of payroll. 
+<br>
+
+Even if you start selling right away, you have to pay people timely and it can take months (60-90 days) before your first customer will pay their invoice.
+
+![Money](./img/money.png){width=200}
+
+---
+
+## Ideal
+
+* What can make money
+* What will imspire people to fund you
+* What do you want to pitch
+
+
+<br>
+<br>
+
+### Let's Brainstorm ideas
+
+#### Goal
+
+Find an ideal we like tonight.  
+Then in September, focus on building a min viable product or build out a vision board and pitch.
+
+---
+
+## Brainstorm Example
+
+### Agile AI scrum bot
+#### Why: 
+
+Humans are poor at keeping track of more than 3 items and on the fly calculate risks.
+There are many poor Managers that seem to either follow a recipe or don't know how busy, hours left you have, or give creepy vibes.
+
+* Scrum bot will use the well-structured agile method to manage sprint teams.
+* Scrum bot will keep track and predict when employees are at risk of losing funding.
+* Real time tracking of tickets.  
+* Balances workloads.  Knows how quickly a 2d task really takes for employee A and B, by usings statistics.
+* Stays on topic.
+
+or 
+
+<br>
+
+### Manage AI
+
+Great bosses are rare.  Let the poor one be replaced.
+
+
+
